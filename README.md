@@ -5,7 +5,8 @@ This project presents a comprehensive analysis of Indian bike sales data using a
 
 The project is designed to simulate a real-world data analytics workflow, combining multiple tools and techniques to deliver business insights.
 
-🎯 Objectives
+🎯 Objectives                                                                                                 
+
 Analyze bike sales trends across different brands and models
 Study price variations and depreciation patterns
 Evaluate performance and efficiency metrics
