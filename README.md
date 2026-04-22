@@ -122,3 +122,7 @@ Deploy dashboard online
 
 Author
 Gaayathri K.G
+
+📧 Email: kggaayathri@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/gaayathrikg/
