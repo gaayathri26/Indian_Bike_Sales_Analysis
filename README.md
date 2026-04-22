@@ -81,27 +81,42 @@ Market trends vary significantly across different segments
 
 📁 Project Structure
 Indian_Bike_Sales_Analysis/
+
 │── data/                # Raw dataset
+
 │── sql/                 # SQL queries
+
 │── python/              # Analysis scripts
+
 │── excel/               # Cleaned dataset
+
 │── powerbi/             # Dashboard file (.pbix)
+
 │── images/              # Dashboard screenshots
+
 │── README.md
 
 🚀 How to Use
 
 Clone the repository
+
 git clone https://github.com/gaayathri26/Indian_Bike_Sales_Analysis.git
+
 Open dataset in Excel / Python
+
 Run SQL queries for analysis
+
 Open Power BI file to explore dashboards
 
 💡 Future Improvements
 
+
 Add predictive modeling (price prediction)
+
 Include real-time data integration
+
 Expand analysis to electric bikes
+
 Deploy dashboard online
 
 Author
