@@ -41,22 +41,37 @@ Query-based insights
 Created 3 interactive dashboards:
 
 📊 1. Sales & Market Overview
+
 Total sales trends
+
 Brand-wise distribution
+
 Market segmentation
+
 💰 2. Price & Depreciation Analysis
+
 Price vs resale value
+
 Depreciation percentage
+
 Bike age impact
+
 ⚙️ 3. Performance & Efficiency Analysis
+
 Mileage analysis
+
 Engine capacity comparison
+
 Efficiency metrics
 
 📈 Key Insights
+
 Certain brands dominate the market with higher resale value
+
 Depreciation is strongly influenced by bike age and usage
+
 Higher engine capacity does not always mean better efficiency
+
 Market trends vary significantly across different segments
 
 📊 Dashboard Preview
