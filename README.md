@@ -11,6 +11,7 @@ Study price variations and depreciation patterns
 Evaluate performance and efficiency metrics
 Build interactive dashboards for decision-making
 Provide insights useful for buyers, sellers, and analysts
+
 🛠️ Tools & Technologies Used
 SQL → Data extraction & querying
 Python (Pandas, NumPy, Matplotlib/Seaborn) → Data analysis & EDA
@@ -46,6 +47,7 @@ Bike age impact
 Mileage analysis
 Engine capacity comparison
 Efficiency metrics
+
 📈 Key Insights
 Certain brands dominate the market with higher resale value
 Depreciation is strongly influenced by bike age and usage
