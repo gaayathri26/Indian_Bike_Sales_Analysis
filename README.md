@@ -14,12 +14,14 @@ Build interactive dashboards for decision-making
 Provide insights useful for buyers, sellers, and analysts
 
 🛠️ Tools & Technologies Used
+
 SQL → Data extraction & querying
 Python (Pandas, NumPy, Matplotlib/Seaborn) → Data analysis & EDA
 Microsoft Excel → Data cleaning & preprocessing
 Power BI → Dashboard creation & visualization
 
 📂 Project Workflow
+
 1. Data Collection
 Dataset sourced from external dataset platforms (CSV format)
 2. Data Cleaning (Excel)
@@ -33,6 +35,7 @@ Trend identification
 Feature relationships
 Query-based insights
 4. Data Visualization (Power BI)
+
 
 Created 3 interactive dashboards:
 
@@ -54,6 +57,7 @@ Certain brands dominate the market with higher resale value
 Depreciation is strongly influenced by bike age and usage
 Higher engine capacity does not always mean better efficiency
 Market trends vary significantly across different segments
+
 📊 Dashboard Preview
 
 <img width="1283" height="722" alt="Dashboard_1" src="https://github.com/user-attachments/assets/0b1719b0-73da-4003-878a-5392fa42b453" />
@@ -70,6 +74,7 @@ Indian_Bike_Sales_Analysis/
 │── README.md
 
 🚀 How to Use
+
 Clone the repository
 git clone https://github.com/gaayathri26/Indian_Bike_Sales_Analysis.git
 Open dataset in Excel / Python
@@ -77,6 +82,7 @@ Run SQL queries for analysis
 Open Power BI file to explore dashboards
 
 💡 Future Improvements
+
 Add predictive modeling (price prediction)
 Include real-time data integration
 Expand analysis to electric bikes
